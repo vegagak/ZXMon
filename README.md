@@ -1,5 +1,7 @@
 # ZXMon is a hexadecimal code monitor utility for the Sinclair ZX81 home computer
 
+Written in Z80 machine language in 1983. Presented here in assembly language
+
 * It is a load-and-stay-resident program. Programs can be loaded and saved while ZXMon is loaded above RAMTOP
 * You can use it to view memory
 * Can also type in new hex digits to change memory
